@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DoctorApp.iml" filepath="$PROJECT_DIR$/DoctorApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/O6UDoctorApp.iml" filepath="$PROJECT_DIR$/O6UDoctorApp.iml" group="O6UDoctorApp" />
+      <module fileurl="file://$PROJECT_DIR$/app/O6UDoctorApp-app.iml" filepath="$PROJECT_DIR$/app/O6UDoctorApp-app.iml" group="O6UDoctorApp/app" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>
